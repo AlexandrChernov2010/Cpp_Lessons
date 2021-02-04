@@ -7,5 +7,9 @@ int main()
     setlocale(LC_ALL, "Russian");
     /* Задание 1*/
     cout << "Привет мир!" << endl;
+
+    cout << "Привет мир!" << endl;
+
+
     return 0;
 }
